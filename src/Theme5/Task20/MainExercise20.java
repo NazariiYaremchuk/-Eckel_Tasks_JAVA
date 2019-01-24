@@ -14,5 +14,6 @@ public class MainExercise20 {
         printArray(1.21,2.32,3.43,5.65);
         System.out.println();
         printArray("one","two","three","four");
+        printArray("a",2,"43",2.852);
     }
 }
