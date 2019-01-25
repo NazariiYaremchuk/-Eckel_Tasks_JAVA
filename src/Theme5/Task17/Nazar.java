@@ -7,8 +7,4 @@ public class Nazar {
         this.name = name;
         System.out.println(name);
     }
-
-//    public Nazar() {
-//
-//    }
 }
